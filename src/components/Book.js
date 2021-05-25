@@ -3,10 +3,6 @@ export function Book( props ) {
     return(
         <div className="book">
             <h2>Book</h2>
-            <h3>Information and Booking</h3>
-            <p>0436 123 456</p>
-            <p>42 Holyrood Avenue</p>
-            <p>Sorrento VIC 3943</p>
             <form
                 id="contact-form"
                 action="https://example.com/handler"

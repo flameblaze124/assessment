@@ -3,6 +3,10 @@ export function Contact(props) {
     return (
         <div className="contact">
             <h2>Contact</h2>
+            <h3>Information and Booking</h3>
+            <p>0436 123 456</p>
+            <p>42 Holyrood Avenue</p>
+            <p>Sorrento VIC 3943</p>
             <form
                 id="contact-form"
                 action="https://example.com/handler"
