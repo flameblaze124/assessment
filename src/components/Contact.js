@@ -17,7 +17,7 @@ export function Contact(props) {
                 <input id="name" name="name" type="text" placeholder="Your Name" />
                 {/* email */}
                 <label htmlFor="email"> Email </label>
-                <input id="email" name="email" type="Email" placeholder="you@domain.com" />
+                <input id="email" name="email" type="email" placeholder="you@domain.com" />
                 {/* message */}
                 <label htmlFor="message"> Message </label>
                 <textarea id="message" row="5" cols="24" placeholder= "Hi, how is it going"> </textarea>
