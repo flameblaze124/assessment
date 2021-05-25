@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flameblaze124/assessment.git/static/css/main.65d3ed2a.chunk.css",
+    "main.js": "/flameblaze124/assessment.git/static/js/main.10764523.chunk.js",
+    "main.js.map": "/flameblaze124/assessment.git/static/js/main.10764523.chunk.js.map",
+    "runtime-main.js": "/flameblaze124/assessment.git/static/js/runtime-main.17aea146.js",
+    "runtime-main.js.map": "/flameblaze124/assessment.git/static/js/runtime-main.17aea146.js.map",
+    "static/js/2.187aa419.chunk.js": "/flameblaze124/assessment.git/static/js/2.187aa419.chunk.js",
+    "static/js/2.187aa419.chunk.js.map": "/flameblaze124/assessment.git/static/js/2.187aa419.chunk.js.map",
+    "static/js/3.2715ac42.chunk.js": "/flameblaze124/assessment.git/static/js/3.2715ac42.chunk.js",
+    "static/js/3.2715ac42.chunk.js.map": "/flameblaze124/assessment.git/static/js/3.2715ac42.chunk.js.map",
+    "index.html": "/flameblaze124/assessment.git/index.html",
+    "static/css/main.65d3ed2a.chunk.css.map": "/flameblaze124/assessment.git/static/css/main.65d3ed2a.chunk.css.map",
+    "static/js/2.187aa419.chunk.js.LICENSE.txt": "/flameblaze124/assessment.git/static/js/2.187aa419.chunk.js.LICENSE.txt",
+    "static/media/Banner.2c2e8877.jpg": "/flameblaze124/assessment.git/static/media/Banner.2c2e8877.jpg",
+    "static/media/Sunrise.8b566e85.jpg": "/flameblaze124/assessment.git/static/media/Sunrise.8b566e85.jpg",
+    "static/media/home.da3aa440.jpg": "/flameblaze124/assessment.git/static/media/home.da3aa440.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17aea146.js",
+    "static/js/2.187aa419.chunk.js",
+    "static/css/main.65d3ed2a.chunk.css",
+    "static/js/main.10764523.chunk.js"
+  ]
+}
