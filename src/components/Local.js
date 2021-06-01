@@ -1,7 +1,7 @@
 import '../styles/Local.css'
 import '../styles/Text.css'
-export function Local( props ) {
-    return(
+export function Local(props) {
+    return (
         <div className="local">
             <h2 className="main">Local</h2>
             <div className="content">
@@ -12,7 +12,7 @@ export function Local( props ) {
                 </p>
                 <h3>Penisula Hot Springs</h3>
                 <p>Another world awaits. Enjoy the thermal bathing area or book a private indoor or outdoor hot springs bath experience.
-                    Activities include reflexology treatments, foot and hand baths, sauna, steam baths, cold plunges and yoga. The cafe at the bath house provides light meals and gourmet pizzas. Feel revitalised and relaxed at the same time.
+                Activities include reflexology treatments, foot and hand baths, sauna, steam baths, cold plunges and yoga. The cafe at the bath house provides light meals and gourmet pizzas. Feel revitalised and relaxed at the same time.
                 </p>
                 <h3>Queenscliff-Sorrento Ferry</h3>
                 <p>There's no better way to cross the Bay either with your car or as a foot passenger. It only takes 40 minutes. Spot the playful dolphins whilst enjoying a coffee and light refreshments. The ferries run every day of the year on the hour. Wonderful restaurants at historic Queenscliff on the Bellarine peninsula offer perfect lunchtime adventures.</p>
@@ -26,7 +26,7 @@ export function Local( props ) {
                 <h3>Water Sports</h3>
                 <p>Endless Fun for all the family. Sailing, fishing, kayaking, paddle boarding, snorkeling, scuba diving and surfing are all on offer, not to mention the cricket match on the beach.    </p>
             </div>
-            </div>
+        </div>
     )
 }
 
