@@ -2,7 +2,7 @@ import '../styles/Local.css'
 export function Local( props ) {
     return(
         <div className="local">
-            <h2>Local</h2>
+            <h2 className="main">Local</h2>
                 <h3>Wineries and Resturant</h3>
                 <p>There are more than 55 wineries to choose from - offering cellar door sales, restaurants, cafes and tours. Along the way discover a foodie’s paradise. Meet the growers, producers, providers and chefs. Experience the fun of picking your own produce or buying dinner ingredients at the farm gate. Dine with views of the sea, lakes and vineyards.</p>
                 <h3>Golf</h3>

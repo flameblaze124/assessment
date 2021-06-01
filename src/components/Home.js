@@ -3,7 +3,7 @@ import '../styles/Home.css'
 export function Home( props ) {
     return(
         <div className="home">
-            <h2>Home</h2>
+            <h2 className="main">Home</h2>
             <div className="video">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/KE0SbDBw-ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>

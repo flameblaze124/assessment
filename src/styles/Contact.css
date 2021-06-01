@@ -1,6 +1,7 @@
 .contact {
     max-width: 1024px;
     margin: 1em auto;
+
 }
 #contact-form {
     display:flex;

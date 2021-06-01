@@ -15,11 +15,11 @@
     display: block;
     padding: 12px;
     text-decoration: none;
-    color: black;
+    color: #4d1d18;
 }
 .navigation a:hover {
     color: white;
-    background-color: black;
+    background-color:#555;
 }
 .navigation a.active {
     font-weight:bold;

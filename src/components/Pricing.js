@@ -5,7 +5,7 @@ export function Pricing(props) {
     return (
         <div className="pricing">
             <Banner image={BannerImage} text="Sunrise" />
-            <h2>Pricing</h2>
+            <h2 className="main">Pricing</h2>
             <div className="grid">
                 <div className="card">
                     <h3>Winter</h3>
@@ -31,12 +31,12 @@ export function Pricing(props) {
             </div>
 
             <h4>Terms and Conditions</h4>
-            A full refund will be given prior to 30 days cancellation
-            50% refund will be given after 30 days of cancellation.
-            In the event of a weekly or monthly booking the apartment will be serviced weekly unless by prior arrangement.
-            Weekly Price     $1,250
-            Monthly Price $5,400
-            BOOK NOW
+            <li>A full refund will be given prior to 30 days cancellation</li>
+            <li>50% refund will be given after 30 days of cancellation.</li>
+            <li>In the event of a weekly or monthly booking the apartment will be serviced weekly unless by prior arrangement.</li>
+            <li>Weekly Price     $1,250</li>
+            <li>Monthly Price $5,400</li>
+            <a href ="Book"><button type="submit">BOOK NOW</button></a>
 </div>
     )
 }
