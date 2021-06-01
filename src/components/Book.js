@@ -1,9 +1,11 @@
 import '../styles/Book.css'
+import '../styles/Text.css'
 export function Book( props ) {
     return(
         <div className="book">
             <h2 className="main">Book</h2>
             <h3>Information and Booking</h3>
+            <div className="content">
             <p>0436 123 456</p>
             <p>42 Holyrood Avenue</p>
             <p>Sorrento VIC 3943</p>
@@ -29,6 +31,7 @@ export function Book( props ) {
                 <button type="submit">Send</button>
 
             </form>
+            </div>
         </div>
     )
 }

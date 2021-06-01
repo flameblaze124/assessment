@@ -39,7 +39,7 @@ export function Apartment(props) {
                 <p>
                     We offer locally sourced provisions for a hearty breakfast together with home-made biscuits and chocolates.
                         </p>
-                <h2>Pet friendly</h2>
+                <h3 className="sub">Pet friendly</h3>
                 <li>We understand that pets are an important part of the family.</li>
                 <li>We are pet friendly by arrangement - so please talk to us about your needs.</li>
                 <li>We offer a fully enclosed backyard, shady trees, water bowls, food bowls and a lead if you forget one.</li>

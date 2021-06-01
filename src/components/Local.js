@@ -1,8 +1,10 @@
 import '../styles/Local.css'
+import '../styles/Text.css'
 export function Local( props ) {
     return(
         <div className="local">
             <h2 className="main">Local</h2>
+            <div className="content">
                 <h3>Wineries and Resturant</h3>
                 <p>There are more than 55 wineries to choose from - offering cellar door sales, restaurants, cafes and tours. Along the way discover a foodie’s paradise. Meet the growers, producers, providers and chefs. Experience the fun of picking your own produce or buying dinner ingredients at the farm gate. Dine with views of the sea, lakes and vineyards.</p>
                 <h3>Golf</h3>
@@ -23,6 +25,7 @@ export function Local( props ) {
                 Sorrento and Mornington will not disappoint. Bookshops, giftware, home living and of course the odd handbag or "must have that" top is yours for the exploring. </p>
                 <h3>Water Sports</h3>
                 <p>Endless Fun for all the family. Sailing, fishing, kayaking, paddle boarding, snorkeling, scuba diving and surfing are all on offer, not to mention the cricket match on the beach.    </p>
+            </div>
             </div>
     )
 }
