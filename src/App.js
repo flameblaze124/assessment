@@ -53,7 +53,20 @@ function App() {
 
       </Switch>
       </main>
-      <footer className="footer"></footer>
+      <footer className="footer">
+        <nav class="social-nav">
+      <a href="ttps://www.facebook.com/sorrento">
+            <i class="fab fa-facebook"></i>
+        </a>
+        
+        <a href="ttps://www.instagram.com/sorrento">
+            <i class="fab fa-instagram"></i>
+        </a>
+        <a href="ttps://www.twitter.com/sorrento">
+            <i class="fab fa-twitter"></i>
+        </a>
+    </nav>
+      </footer>
     </div>
   );
 }
