@@ -21,7 +21,7 @@ const TextStyle = {
 export function Banner( props ) {
     return (
         <div className="banner" style={BannerStyle}>
-            <img src={props.image} className="banner-image" style={BannerImage} />
+            <img src={props.image} className="banner-image" style={BannerImage} alt="picture of sorrento" />
             <h2 className="banner-text" style={TextStyle}>{props.text}</h2>
         </div>
     )

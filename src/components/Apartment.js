@@ -1,6 +1,6 @@
 import '../styles/Apartment.css'
 import { Banner } from './Banner'
-import BannerImage from '../banners/Banner.jpg'
+import BannerImage from '../banners/Banner.jpg' 
 import '../styles/Text.css'
 
 export function Apartment(props) {
