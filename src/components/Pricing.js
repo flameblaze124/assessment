@@ -38,7 +38,7 @@ export function Pricing(props) {
                 <li>In the event of a weekly or monthly booking the apartment will be serviced weekly unless by prior arrangement.</li>
                 <li>Weekly Price     $1,250</li>
                 <li>Monthly Price $5,400</li>
-                <li><a href="Book"><button type="submit">BOOK NOW</button></a></li>
+                <li><a href="book"><button type="submit">BOOK NOW</button></a></li>
             </div>
         </div>
     )
