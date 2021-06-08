@@ -1,5 +1,6 @@
 import '../styles/Local.css'
 import '../styles/Text.css'
+
 export function Local(props) {
     return (
         <div className="local">

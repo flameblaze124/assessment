@@ -1,3 +1,4 @@
+
 const BannerStyle = {
     minHeight: '50vh',
     minWidth: '100%',
@@ -18,6 +19,7 @@ const TextStyle = {
     top: '50%',
     zIndex: 99
 }
+
 export function Banner( props ) {
     return (
         <div className="banner" style={BannerStyle}>
